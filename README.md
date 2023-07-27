@@ -1,7 +1,7 @@
 # Connect-Social-Media
-It is actually created by @Ed-Roh , I have made some differences and added some more features to it
+Capstone Project for March Full-stack Cohort by Owele David
 
-
+useful info
 admin login id - admin@gmail.com 
 
 password - admin123 (if you want to change it , you can do it in the code(form.jsx))
@@ -12,9 +12,9 @@ use this cmd - npm -i (in client folder and server folder too.... )
 #
 create  .env file in server folder with this content :
 
-MONGO_URL="change this to db url of mongo db"
+MONGO_URL="<insert>"
 
-JWT_SECRET='somesuperhardstringtoguess'
+JWT_SECRET='<insert>'
 
 PORT =3001
 #
